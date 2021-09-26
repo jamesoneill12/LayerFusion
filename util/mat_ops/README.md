@@ -1,0 +1,1 @@
+Mainly from - https://github.com/noahgolmant/pytorch-hessian-eigenthings
